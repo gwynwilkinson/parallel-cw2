@@ -1,3 +1,3 @@
 # Parallel Computing - Coursework Task 2
 
-Brute-force password guessing program leveraging OpenMP (shared memory) and MPI (distributed memory) on Linux OS in C.
+Brute-force password guessing program leveraging OpenMP (shared memory) and MPI (distributed memory) on Linux OS in C. Submitted Dec 2018.
